@@ -1,13 +1,9 @@
-Absolutely! Here's the **complete `README.md` content** in markdown format — you can **copy and paste** this directly into your project.
 
----
-
-````markdown
 # Pokémon Search App 🧢
 
 A responsive and dynamic Pokémon search application built using **Next.js (App Router)**, **Tailwind CSS**, and the **PokéAPI**.
 
-🔗 **Live Demo**: [Insert your CodeSandbox/StackBlitz URL here]
+🔗 **Live Demo**: [https://stackblitz.com/~/github.com/Praveenverma1510/pokemon-search-app]
 
 ---
 
